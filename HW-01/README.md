@@ -53,3 +53,10 @@
 
 
 Если информация по этому проекту покажется вам интересной или полезной, то я буду очень вам благодарен, если отметите репозиторий и профиль ⭐️⭐️⭐️-дами
+
+
+https://drive.google.com/file/d/18a36Ef9vQf9TpVHiE9hBusQ-ebrrz_lI/view?usp=sharing - big_data_file.csv
+
+https://drive.google.com/file/d/1x996AeLXepnqNpWRLmqrVRu0-oB6MdPQ/view?usp=sharing - big_data_file.rar
+
+https://colab.research.google.com/drive/1vkIn_eegC8eYjUSKPwSvYz1vAhUxMVnH?usp=drive_link - PYTHON-8. baseline.ipynb
