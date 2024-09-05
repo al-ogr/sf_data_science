@@ -1,4 +1,4 @@
-# Проекты самостоятельных работ SkillFactory
+# Проекты SkillFactory
 Проекты выполненных самостоятельных работ, заданных на платформе [SkillFactory](https://skillfactory.ru/) при обучении на курсе [Data Science](https://skillfactory.ru/courses/data-science).
 
 ## Проекты  
