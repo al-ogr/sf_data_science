@@ -167,4 +167,4 @@ cython_debug/
 *.zip
 
 # Testing files
-*test.py
+test.py
