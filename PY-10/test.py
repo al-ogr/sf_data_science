@@ -42,3 +42,4 @@ student_data = pd.read_csv(os.path.dirname(os.path.abspath(__file__)) + r'\data\
                            converters={'test preparation course': lambda x: x == 'completed'})
 
 print(student_data.info())
+
